@@ -1,0 +1,8 @@
+{
+  "name": "Storytelling Social Media.Co",
+  "description": "A premium social media agency website specializing in storytelling and digital strategy in South Africa, featuring AI-powered brand story generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
